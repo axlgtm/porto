@@ -10,5 +10,7 @@ export default defineConfig({
                 '@': fileURLToPath(new URL('./src', import.meta.url))
             }
         }
-    }
+    },
+    site: "https://axlgtm.github.io",
+    base: ""
 });
