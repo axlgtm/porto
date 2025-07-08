@@ -9,7 +9,11 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.11.0",
-    "sass": "^1.89.2"
+    "astro": "^5.11.0"
+  },
+  "devDependencies": {
+    "culori": "^4.0.2",
+    "sass": "^1.89.2",
+    "sass-export": "^2.1.2"
   }
 }
